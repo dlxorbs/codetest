@@ -1,10 +1,10 @@
 # [level 0] 문자열 출력하기 - 181952 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181952) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181952?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 68.5 MB, 시간: 164.15 ms
+메모리: 45.2 MB, 시간: 153.16 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 03일 14:08:33
+2024년 10월 03일 14:10:50
 
 ### 문제 설명
 
